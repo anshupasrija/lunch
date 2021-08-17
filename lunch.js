@@ -1,4 +1,4 @@
-const whatToDoForLunch = function (hungry, availableTime) {
+const whatToDoForLunch = function(hungry, availableTime) {
   if (hungry === false) {
     console.log("Get back to work");
     return "Get back to work";
